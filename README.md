@@ -1,4 +1,7 @@
-# Lluvia de Ideas
+# Desarrollando un negocio con IA Generativa!
+
+
+## Lluvia de Ideas
 
 ### 1. **Personalización de Tramas:**
    - **Idea:** La historia se adapta en tiempo real a las decisiones del lector.
