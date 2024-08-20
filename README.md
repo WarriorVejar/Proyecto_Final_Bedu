@@ -1,5 +1,13 @@
 # Desarrollando un negocio con IA Generativa!
 
+## Elección del Proyecto
+
+### Entretenimiento: Desarrollo de Narrativas Interactivas en libros electrónicos.
+
+**Problema:** Los libros electrónicos actuales carecen de interactividad profunda, ofreciendo experiencias de lectura estáticas y uniformes.
+
+**Beneficio:** La IA generativa permite crear narrativas personalizadas y dinámicas, ofreciendo experiencias de lectura únicas y adaptadas a cada lector.
+
 
 ## Lluvia de Ideas
 
