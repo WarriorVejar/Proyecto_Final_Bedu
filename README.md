@@ -62,4 +62,4 @@
 ### 15. **Sugerencias de Lectura:**
    - **Idea:** La IA sugiere continuaciones o secuelas basadas en el estilo de lectura y preferencias del usuario.
    - **Aplicación:** Ofrecer recomendaciones personalizadas de otros libros interactivos o de contenido relacionado.
-![image](https://github.com/user-attachments/assets/584bf51e-4e5d-44b7-8faf-1e8a426bff1c)
+
