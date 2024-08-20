@@ -111,6 +111,11 @@
 
 ### Conclusión:
 Aplicando SCAMPER, el concepto de narrativas interactivas con IA generativa en libros electrónicos se mejora significativamente. Se introduce la personalización extrema, la integración de AR y multimedia, la adaptación educativa, la colaboración en tiempo real, la flexibilidad narrativa y la capacidad de experimentar la historia desde múltiples ángulos. Este enfoque proporciona una experiencia de lectura dinámica, inmersiva y profundamente interactiva, que se adapta a las necesidades y preferencias individuales de cada lector.
-![image](https://github.com/user-attachments/assets/fde02755-6018-4597-acc3-a71746f66eaa)
+
+## ¿Cómo la IA Generativa será fundamental en la solución?
+
+ - **La IA generativa será fundamental en la solución al proporcionar la capacidad de crear contenido dinámico, personalizado y adaptativo en tiempo real, transformando la experiencia de lectura en algo único para cada usuario. Al generar tramas, personajes, diálogos y elementos multimedia que responden directamente a las decisiones y preferencias del lector, la IA rompe con las limitaciones de las narrativas fijas y lineales, ofreciendo una experiencia interactiva que evoluciona continuamente. Además, permitirá la adaptación de la narrativa a diferentes contextos culturales y educativos, optimizando la relevancia y el impacto del contenido para audiencias diversas. Así, la IA generativa se convierte en el núcleo de una nueva era de entretenimiento literario, donde la interactividad, la personalización y la inmersión son el estándar.**
+
+
 
 
