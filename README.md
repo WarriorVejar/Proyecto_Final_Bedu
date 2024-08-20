@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d6b8fa5a-cb15-4c3d-8823-ac3125bcdb91)![image](https://github.com/user-attachments/assets/9a8e25c6-46a1-4cd8-99ca-4dc19a6a9965)# Desarrollando un negocio con IA Generativa!
+# Desarrollando un negocio con IA Generativa!
 
 ## Elección del Proyecto
 
